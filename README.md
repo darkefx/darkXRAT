@@ -118,7 +118,7 @@ This project is intended solely for educational and ethical penetration testing 
 
 ## ⚠️ Warning
 
-**DarkAndroidRAT** is a powerful tool that can compromise the privacy and security of individuals. Use it responsibly and only in environments where you have explicit permission to conduct security assessments. Unauthorized deployment may lead to severe legal consequences.
+**darkXRAT** is a powerful tool that can compromise the privacy and security of individuals. Use it responsibly and only in environments where you have explicit permission to conduct security assessments. Unauthorized deployment may lead to severe legal consequences.
 
 ---
 
