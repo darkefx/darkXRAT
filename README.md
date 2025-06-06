@@ -30,18 +30,18 @@
 * **📁 File Management**
 
   * Browse, upload, and download files from the device's storage.
-  * Execute file operations remotely.([bevijaygupta.medium.com][1])
+  * Execute file operations remotely.
 
 * **📷 Media Access**
 
   * Capture photos using the device's camera.
   * Record audio through the microphone.
-  * Access and exfiltrate media files.([checkpoint.com][2], [cyfirma.com][3])
+  * Access and exfiltrate media files.
 
 * **📞 Communication Control**
 
   * Monitor incoming and outgoing calls.
-  * Read and send SMS messages.([github.com][4], [infosecinstitute.com][5])
+  * Read and send SMS messages.
 
 * **🖥️ Remote Interface**
 
@@ -91,7 +91,7 @@
 3. **Build the APK:**
 
    * Open the project in Android Studio.
-   * Build the project to generate the APK file.([darkreading.com][6])
+   * Build the project to generate the APK file.
 
 4. **Deploy to Target Device:**
 
@@ -116,7 +116,7 @@ This project is intended solely for educational and ethical penetration testing 
 
 * **Name:** `dark_efx`
 * **Alias:** F Society
-* **GitHub:** [darkefx](https://github.com/darkefx)([checkpoint.com][2])
+* **GitHub:** [darkefx](https://github.com/darkefx)
 
 ---
 
@@ -126,28 +126,16 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📷 Screenshots
 
-*Include relevant screenshots or GIFs demonstrating the RAT's capabilities.*
+## 📺 Project Demo
 
----
+[![Watch the demo](https://img.youtube.com/vi/gvYXaKMxsu0/0.jpg)](https://www.youtube.com/watch?v=gvYXaKMxsu0)
 
-## 📚 Resources
 
-* [Firebase Documentation](https://firebase.google.com/docs)
-* [Android Accessibility Services](https://developer.android.com/guide/topics/ui/accessibility/services)
-* [Android Developers Guide](https://developer.android.com/guide)
 
----
+> ⚠️ **Disclaimer**  
+> This video and project are intended for **educational and ethical cybersecurity research** only.  
+> All demonstrations are done in **controlled environments** and comply with **legal and responsible disclosure guidelines**.  
+> Unauthorized use of any code or method shown is strictly prohibited.
 
-*Note: Ensure that all usage complies with applicable laws and regulations. Always obtain proper authorization before deploying tools like DarkAndroidRAT.*
-
----
-
-[1]: https://bevijaygupta.medium.com/wanna-build-a-rat-remote-access-trojan-71607edd618f?utm_source=chatgpt.com "Wanna Build a (RAT) Remote Access Trojan?? | by Vijay Kumar Gupta"
-[2]: https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-remote-access-trojan/?utm_source=chatgpt.com "What is Remote Access Trojan (RAT)? - Check Point Software"
-[3]: https://www.cyfirma.com/research/neptune-rat-an-advanced-windows-rat-with-system-destruction-capabilities-and-password-exfiltration-from-270-applications/?utm_source=chatgpt.com "NEPTUNE RAT : An advanced Windows RAT with System ... - cyfirma"
-[4]: https://github.com/okhosting/awesome-cyber-security/blob/main/README.md?utm_source=chatgpt.com "awesome-cyber-security/README.md at main - GitHub"
-[5]: https://www.infosecinstitute.com/resources/incident-response-resources/network-traffic-analysis-for-ir-discovering-rats/?utm_source=chatgpt.com "Network Traffic Analysis for IR — Discovering RATs - Infosec"
-[6]: https://www.darkreading.com/cyberattacks-data-breaches/hunters-international-disguises-novel-sharprhino-rat-as-legitimate-network-tool?utm_source=chatgpt.com "Hunters International Masks SharpRhino RAT as Legit Network ..."
 
